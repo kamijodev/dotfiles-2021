@@ -28,4 +28,12 @@ vscodeの場合GUI上の既定のシェル変更するだけ
 ## themes powerlevel10k
 git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ~/.zsh/themes/powerlevel10k
 
+## lagygit インストール
+https://github.com/jesseduffield/lazygit
+
+## gitcompletion
+`curl -o ~/.zsh/git-completion.bash https://raw.githubusercontent.com/git/git/master/contrib/completion/git-completion.bash`
+`curl -o ~/.zsh/_git https://raw.githubusercontent.com/git/git/master/contrib/completion/git-completion.zsh`
+
+
 ## シンボリックリンク作成用スクリプト実行

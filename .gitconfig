@@ -11,6 +11,6 @@
   br = branch
   l1 = log --oneline
   back = reset --hard HEAD^
-  cp = cherrypick
+  cp = cherry-pick
 [core]
   editor = vim
